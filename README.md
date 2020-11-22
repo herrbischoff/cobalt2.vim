@@ -1,17 +1,36 @@
 # cobalt2.vim
-Cobalt 2 colorscheme for Vim, converted from Wes Bos' Sublime Text adaptation: https://github.com/wesbos/cobalt2
+
+## Women Empowerment in Zanzibar
+
+Send a little karma down the way and support women empowerment in Zanzibar by
+helping to [fund the local production of reusable female hygiene
+products](https://www.gofundme.com/f/women-empowerment-in-zanzibar). A very
+dear friend of mine runs the project. They were already able to buy hundreds of
+educational books. Sometimes, it takes so little to make a huge impact. If
+you'd like to thank me or support this work, donate. Additionally, any current
+and future sponsoring of my work via GitHub or other channels will flow one
+hundred percent to the NGO.
+
+## About
+
+Cobalt 2 colorscheme for Vim, converted from Wes Bos' Sublime Text adaptation: 
+https://github.com/wesbos/cobalt2
 
 This colorscheme is raw for now. HTML syntax highlighting is mostly
 complete, JavaScript and CSS are work-in-progress and a few bits of Twig are
 sprinkled in. Please consider this Alpha quality software for the time being.
 
-There are currently no terminal colors and given the limited color support of many terminal emulators, I don't I ever will. The scheme works quite good with [Neovim](https://neovim.io) though, if you enable its true color mode: `export NVIM_TUI_ENABLE_TRUE_COLOR=1`
+There are currently no terminal colors and given the limited color support of 
+many terminal emulators, I don't I ever will. The scheme works quite good with 
+[Neovim](https://neovim.io) though, if you enable its true color mode: `export 
+NVIM_TUI_ENABLE_TRUE_COLOR=1`
 
 Pull requests for additional language support are very welcome.
 
 ## Screenshots
 
 ### HTML
+
 ![HTML](assets/html.png)
 
 ## Installation
@@ -22,17 +41,11 @@ Move `cobalt2.vim` to your `.vim/colors` directory.
 
 ### Option 2: Install with a package manager
 
-#### NeoBundle
+#### vim-plug
 
 ```
-NeoBundle 'herrbischoff/cobalt2.vim'
+Plug 'herrbischoff/cobalt2.vim'
 ```
-
-## Caffeinating
-
-When you find this helpful, you could buy me a coffee. Keeping me properly caffeinated accelerates things. And it would really make my day. Kindness of strangers and all that. If you can't or won't, no hard feelings. It's available completely free for a reason. Still, it would be awesome.
-
-Patreon: https://www.patreon.com/herrbischoff
 
 ## License
 
